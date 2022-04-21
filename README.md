@@ -1,5 +1,6 @@
 # Ruby Style Guide
 
+
 This is Airbnb's Ruby Style Guide.
 
 It was inspired by [GitHub's guide](https://web.archive.org/web/20160410033955/https://github.com/styleguide/ruby) and [RuboCop's guide][rubocop-guide].
